@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="registration">Registration</string>
+    <string name="no_record_found">No Record Found</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="address">Address</string>
+    <string name="action">Action</string>
+    <string name="save">Save</string>
+    <string name="list">List</string>
+    <string name="back">Back</string>
+    <string name="record_successfully_saved">Record successfully saved</string>
+</resources>
